@@ -1,0 +1,22 @@
+name: GIAmachine
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - numpy
+  - scipy
+  - h5py
+  - matplotlib
+  - pip
+  - xesmf
+  - cartopy
+  - jupytext
+  - jupyterlab
+  - netcdf4
+  - h5netcdf
+  - dask
+
+
+
+
